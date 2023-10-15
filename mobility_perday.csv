@@ -1,0 +1,39 @@
+﻿"Mobility; per person, modes of travel, purposes of travel and regions";;;;;;;;;;;
+Population: Population 6 years or older;;;;;;;;;;;
+Margins: Value;;;;;;;;;;;
+;;;;;;;;;;;
+;Topic;Average per person per day|Trips;Average per person per day|Trips;Average per person per day|Trips;Average per person per day|Trips;Average per person per day|Trips;Average per person per day|Distance travelled                      ;Average per person per day|Distance travelled                      ;Average per person per day|Distance travelled                      ;Average per person per day|Distance travelled                      ;Average per person per day|Distance travelled                      
+;Region characteristics;The Netherlands;The Netherlands;The Netherlands;The Netherlands;The Netherlands;The Netherlands;The Netherlands;The Netherlands;The Netherlands;The Netherlands
+;Periods;2018;2019;2020;2021;2022;2018;2019;2020;2021;2022
+Travel motives;Travel modes;number;number;number;number;number;passenger kilometres ;passenger kilometres ;passenger kilometres ;passenger kilometres ;passenger kilometres 
+Total;Total;2.78;2.71;2.35;2.51;2.70;36.16;36.00;24.88;27.24;30.21
+Total;Passenger car (driver);0.96;0.95;0.81;0.82;0.87;18.16;18.02;13.14;14.05;15.13
+Total;Train;0.08;0.08;0.03;0.03;0.05;3.88;4.08;1.60;1.67;2.62
+Total;Bike;0.79;0.76;0.63;0.64;0.75;3.16;3.01;2.61;2.68;3.04
+Total;Walking;0.44;0.43;0.52;0.61;0.58;0.90;0.88;1.12;1.38;1.21
+Travel to/from work, (non)-daily commute;Total;0.55;0.50;0.37;0.37;0.42;10.55;9.72;6.16;6.13;7.40
+Travel to/from work, (non)-daily commute;Passenger car (driver);0.27;0.25;0.19;0.19;0.21;6.79;6.20;4.37;4.33;4.90
+Travel to/from work, (non)-daily commute;Train;0.03;0.03;0.01;0.01;0.02;1.33;1.35;0.50;0.36;0.71
+Travel to/from work, (non)-daily commute;Bike;0.14;0.13;0.10;0.10;0.12;0.68;0.65;0.44;0.45;0.55
+Travel to/from work, (non)-daily commute;Walking;0.02;0.02;0.02;0.02;0.02;0.06;0.06;0.03;0.03;0.04
+Professionally;Total;0.07;0.11;0.07;0.08;0.08;2.20;3.27;1.85;1.93;2.08
+Professionally;Passenger car (driver);0.04;0.06;0.04;0.04;0.04;1.40;2.15;1.17;1.18;1.28
+Professionally;Train;0.00;0.00;0.00;0.00;0.00;0.20;0.21;0.09;0.07;0.14
+Professionally;Bike;0.01;0.01;0.01;0.01;0.01;0.04;0.05;0.03;0.04;0.05
+Professionally;Walking;0.00;0.00;0.00;0.00;0.00;0.01;0.01;0.00;0.01;0.01
+Services/care;Total;0.09;0.09;0.07;0.09;0.09;0.83;0.73;0.61;0.74;0.72
+Services/care;Passenger car (driver);0.03;0.03;0.03;0.04;0.04;0.41;0.38;0.36;0.42;0.42
+Services/care;Train;0.00;.;.;.;.;0.07;.;.;.;.
+Services/care;Bike;0.02;0.02;0.02;0.02;0.03;0.06;0.06;0.05;0.07;0.07
+Services/care;Walking;0.01;0.01;0.01;0.01;0.01;0.01;0.01;0.01;0.01;0.01
+Shopping, groceries, funshopping.;Total;0.56;0.54;0.55;0.56;0.58;3.13;3.13;2.48;2.59;2.85
+Shopping, groceries, funshopping.;Passenger car (driver);0.20;0.20;0.20;0.20;0.20;1.52;1.52;1.37;1.41;1.45
+Shopping, groceries, funshopping.;Train;0.00;0.00;0.00;0.00;0.00;0.23;0.22;0.08;0.09;0.15
+Shopping, groceries, funshopping.;Bike;0.17;0.16;0.15;0.15;0.17;0.35;0.33;0.31;0.30;0.36
+Shopping, groceries, funshopping.;Walking;0.11;0.10;0.12;0.14;0.13;0.10;0.09;0.10;0.12;0.12
+Attending education/courses;Total;0.23;0.22;0.14;0.14;0.18;2.08;2.05;1.02;1.17;1.62
+Attending education/courses;Passenger car (driver);0.02;0.01;0.01;0.01;0.01;0.39;0.37;0.21;0.23;0.34
+Attending education/courses;Train;0.01;0.02;0.01;0.01;0.01;0.63;0.66;0.22;0.28;0.41
+Attending education/courses;Bike;0.12;0.12;0.08;0.07;0.09;0.43;0.42;0.26;0.26;0.35
+Attending education/courses;Walking;0.03;0.03;0.02;0.02;0.03;0.04;0.04;0.02;0.03;0.03
+Source: CBS;;;;;;;;;;;
